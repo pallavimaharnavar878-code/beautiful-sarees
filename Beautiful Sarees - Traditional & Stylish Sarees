@@ -1,0 +1,263 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8158/index.html
+Subject: Beautiful Sarees - Traditional & Stylish Sarees
+Date: Mon, 24 Aug 2026 22:41:29 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ogPKCynRVwDk50F0ac91bg5mwrOasE3PxEocWTNGF5----"
+
+
+------MultipartBoundary--ogPKCynRVwDk50F0ac91bg5mwrOasE3PxEocWTNGF5----
+Content-Type: text/html
+Content-ID: <frame-B5C8DB761BA010C7A21E2436A29E6E68@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8158/index.html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-4947ccbc-500a-488e-9379-55e5ad03f74e@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-e641323f-22d0-4528-8405-0e8c4cc377a5@mhtml.blink" /><!-- Injected code, this is not present in original code --><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Injected code, this is not present in original code -->
+    <title>Beautiful Sarees - Traditional &amp; Stylish Sarees</title>
+
+    <meta name="description" content="Beautiful Sarees offers traditional, stylish and elegant sarees for weddings, festivals and special occasions.">
+
+    
+</head><c-toggler style="transform: translate(2px, 346.5px); display: none;"></c-toggler>
+
+<body>
+
+    <nav>
+        <a href="http://localhost:8158/index.html">Home</a>
+        <a href="http://localhost:8158/about.html">About</a>
+        <a href="http://localhost:8158/contact.html">Contact</a>
+    </nav>
+
+
+    <div class="section">
+
+        <h1>Welcome to Beautiful Sarees</h1>
+
+        <h2>Traditional &amp; Stylish Sarees</h2>
+
+        <p>
+            Discover beautiful sarees for every occasion.
+            We offer traditional, stylish and elegant sarees
+            with attractive designs and quality fabrics.
+        </p>
+
+        <p>
+            Find the perfect saree for weddings,
+            festivals, parties and special occasions.
+        </p>
+
+        <a href="http://localhost:8158/about.html" class="button">Know More</a>
+
+    </div>
+
+
+    <div class="section">
+
+        <h2>Our Collection</h2>
+
+        <div class="collection">
+
+            <div class="card">
+                <h3>Silk Sarees</h3>
+                <p>
+                    Elegant silk sarees perfect for
+                    weddings and special occasions.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Cotton Sarees</h3>
+                <p>
+                    Comfortable and beautiful cotton
+                    sarees for everyday wear.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Designer Sarees</h3>
+                <p>
+                    Stylish designer sarees for parties
+                    and modern occasions.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="section">
+
+        <h2>Why Choose Us?</h2>
+
+        <p>✔ Quality Sarees</p>
+
+        <p>✔ Beautiful Designs</p>
+
+        <p>✔ Affordable Prices</p>
+
+        <p>✔ Traditional &amp; Modern Collection</p>
+
+        <p>✔ Sarees for Every Occasion</p>
+
+    </div>
+
+
+    <div class="section">
+
+        <h2>Explore Our Website</h2>
+
+        <p>
+            Visit our About page to learn more about us
+            or contact us for more information.
+        </p>
+
+        <a href="http://localhost:8158/contact.html" class="button">Contact Us</a>
+
+    </div>
+
+
+</body></html>
+------MultipartBoundary--ogPKCynRVwDk50F0ac91bg5mwrOasE3PxEocWTNGF5----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-e641323f-22d0-4528-8405-0e8c4cc377a5@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; margin: 0px; background-color: rgb(248, 240, 245); text-align: center; }
+
+nav { background-color: rgb(128, 0, 64); padding: 18px; }
+
+nav a { color: white; text-decoration: none; margin: 20px; font-size: 18px; }
+
+nav a:hover { color: rgb(255, 209, 227); }
+
+.section { background-color: white; width: 80%; margin: 30px auto; padding: 30px; border-radius: 15px; }
+
+h1 { color: rgb(128, 0, 64); font-size: 40px; }
+
+h2 { color: rgb(128, 0, 64); }
+
+p { font-size: 18px; color: rgb(51, 51, 51); line-height: 1.6; }
+
+.collection { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; }
+
+.card { background-color: rgb(248, 240, 245); width: 200px; padding: 20px; border-radius: 10px; }
+
+.card h3 { color: rgb(128, 0, 64); }
+
+.button { display: inline-block; background-color: rgb(128, 0, 64); color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; margin-top: 15px; }
+------MultipartBoundary--ogPKCynRVwDk50F0ac91bg5mwrOasE3PxEocWTNGF5----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-4947ccbc-500a-488e-9379-55e5ad03f74e@mhtml.blink
+
+@charset "utf-8";
+
+﻿c-toggler { background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAE9JREFUOMtjYBh0gBHO+k+cSkYilcPVMpHqpIHRwIgUFERp+I8SekQ5CY8WXH7AqYWJyGglqIERV3QykaYcV7DiSSwsODw8yJIGdTPQIAQAg9gKJl7UINwAAAAASUVORK5CYII="); background-position: center center; background-repeat: no-repeat; background-size: 24px; position: fixed; top: 0px; left: 0px; height: 30px; width: 30px; background-color: rgb(255, 255, 255); transform-origin: center center; border-radius: 50%; box-shadow: rgba(0, 0, 0, 0.4) -2px 2px 8px; z-index: 99999; opacity: 0.5; }
+
+c-object { color: rgb(153, 153, 255); text-decoration: underline; }
+
+c-toggler:active { box-shadow: rgba(0, 0, 0, 0.4) -1px 1px 4px; }
+
+c-line { display: block; }
+
+c-console { box-sizing: border-box; overflow-y: auto; position: fixed; top: 0px; left: 0px; height: 100vh; width: 100vw; background-color: rgb(49, 49, 49); z-index: 99998; color: rgb(238, 238, 238); font-family: var(--app-font-family); }
+
+c-console[title] { padding-top: 65px; animation: 0.1s ease 0s 1 normal none running --page-transition; }
+
+c-console br:last-of-type { display: none; }
+
+c-console textarea { color: rgb(255, 255, 255); background-color: inherit; caret-color: currentcolor !important; }
+
+c-input { display: flex; width: 100%; height: fit-content; }
+
+c-input::before { content: ">>"; margin: 0px 5px; height: 100%; }
+
+#__c-input { width: 100%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; resize: none; height: 200px; position: relative; background-color: rgba(0, 0, 0, 0); overflow: visible; }
+
+#__c-input:focus { outline: none; }
+
+c-console[title]::before { position: fixed; top: 0px; left: 0px; width: 100vw; background-color: inherit; z-index: 999999; content: attr(title); display: flex; height: 44px; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 900; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px; margin-bottom: 10px; color: rgb(255, 255, 255); font-size: medium; }
+
+c-message { position: relative; display: flex; border-bottom: 1px solid rgba(204, 204, 204, 0.4); margin-bottom: 35px; font-size: 0.9rem; flex-wrap: wrap; }
+
+c-code { position: relative; color: rgb(214, 211, 211); font-size: 1em; font-family: "Courier New", Courier, monospace; overflow-x: auto; white-space: pre; margin-bottom: 0px; }
+
+c-code::after { content: "use"; background-color: rgb(102, 102, 102); color: inherit; border-radius: 4px; padding: 0px 0.4rem; font-size: 0.6rem; }
+
+c-code::before { content: ">>"; padding: 0px 5px; font-style: italic; }
+
+c-key { font-size: 0.9rem; color: rgb(204, 102, 255); }
+
+c-message[log-level="error"] { border-bottom: 1px solid rgba(255, 255, 255, 0.4); background-color: rgb(68, 34, 34); color: inherit; }
+
+c-message[log-level="error"]::after { background-color: rgb(204, 67, 67); color: inherit; }
+
+c-message[log-level="warn"] { border-bottom: 1px solid rgba(255, 255, 255, 0.4); background-color: rgb(102, 51, 51); color: inherit; }
+
+c-message[log-level="warn"]::after { background-color: rgb(204, 105, 105); color: inherit; }
+
+c-stack:not(:empty) { content: attr(data-stack); font-family: Verdana, Geneva, Tahoma, sans-serif; position: absolute; top: 100%; right: 0px; display: flex; height: 20px; -webkit-box-align: center; align-items: center; -webkit-box-pack: justify; justify-content: space-between; width: 100vw; background-color: inherit; padding: 0px 5px; box-sizing: border-box; font-size: 0.8rem; color: inherit; }
+
+c-text { padding: 2px 2px 2px 10px; font-family: Verdana, Geneva, Tahoma, sans-serif; overflow: auto; box-sizing: border-box; max-width: 100vw; font-size: 0.9rem; width: 100%; white-space: break-spaces; }
+
+c-text.__c-boolean { color: rgb(130, 80, 177); }
+
+c-text.__c-number { color: rgb(97, 88, 221); }
+
+c-text.__c-symbol { color: rgb(111, 89, 172); }
+
+c-text.__c-function { color: rgb(145, 136, 168); font-family: "Courier New", Courier, monospace; font-size: 0.9rem; }
+
+c-text.__c-function::before { content: "ƒ"; margin: 0px 2px; font-style: italic; color: rgb(153, 153, 255); }
+
+c-text.__c-object, c-text.__c-undefined { color: rgb(118, 163, 118); }
+
+c-text.__c-string { color: rgb(59, 161, 59); }
+
+c-text.__c-string:not(.no-quotes)::before { content: "\""; margin-right: 2px; }
+
+c-text.__c-string:not(.no-quotes)::after { content: "\""; margin-left: 2px; }
+
+c-message.error c-text { overflow: unset; white-space: pre-wrap; word-break: break-word; color: rgb(255, 255, 255); }
+
+c-group { display: none; margin-left: 14px; }
+
+c-type[type="body-toggler"].__show-data + c-group { display: block; }
+
+c-type[type="body-toggler"]::before { display: inline-block; content: "▸"; margin-right: 2.5px; }
+
+c-type[type="body-toggler"]::after { content: "{...}"; }
+
+c-type[type="body-toggler"].__show-data::before { content: "▾"; }
+
+c-type[type="body-toggler"].__show-data::after { display: none; }
+
+c-table { display: table; width: 100%; border-collapse: collapse; border-spacing: 0px; font-size: 0.9rem; color: rgb(214, 211, 211); border: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-row { display: table-row; border-bottom: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-row:last-child { border-bottom-width: medium; border-bottom-style: none; border-bottom-color: currentcolor; }
+
+c-table c-row:first-child { font-weight: bold; }
+
+c-table c-cell { display: table-cell; padding: 5px; border-bottom: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-cell:not(:last-child) { border-left: 1px solid rgba(204, 204, 204, 0.4); }
+
+@-webkit-keyframes --page-transition { 
+  0% { opacity: 0; transform: translate3d(0px, 50%, 0px); }
+  100% { opacity: 1; transform: translate3d(0px, 0px, 0px); }
+}
+
+@keyframes --page-transition { 
+  0% { opacity: 0; transform: translate3d(0px, 50%, 0px); }
+  100% { opacity: 1; transform: translate3d(0px, 0px, 0px); }
+}
+------MultipartBoundary--ogPKCynRVwDk50F0ac91bg5mwrOasE3PxEocWTNGF5------
